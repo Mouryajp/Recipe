@@ -23,7 +23,9 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 Additional addons:
 
 npx shadcn-ui@latest init
+
 npx shadcn-ui@latest add skeleton
+
 npx shadcn-ui@latest add card
 
 
